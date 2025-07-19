@@ -1,2 +1,1 @@
-# my_project
-Responsive Landing Page
+# Responsive Landing Page
